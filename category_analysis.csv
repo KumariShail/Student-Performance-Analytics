@@ -1,0 +1,11 @@
+Category,Group,Average_Exam_Score
+Gender,Female,67.24
+Gender,Male,67.23
+School_Type,Private,67.29
+School_Type,Public,67.21
+Motivation_Level,High,67.7
+Motivation_Level,Low,66.75
+Motivation_Level,Medium,67.33
+Parental_Involvement,High,68.09
+Parental_Involvement,Low,66.36
+Parental_Involvement,Medium,67.1
